@@ -1,7 +1,10 @@
 ﻿This repository contains code that I wrote for Tripwire VERT's Cyber Security 
 Capture The Flag Contest as well as a copy of a pastebin hint that was given to us.
 
-More context can be found by visiting my blog post at
+More context can be found by visiting my post at Tripwire's blog:
+Part 1: http://www.tripwire.com/state-of-security/off-topic/how-i-captured-the-flags-in-tripwire-verts-cyber-security-contest-part-1/
+Part 2: http://www.tripwire.com/state-of-security/off-topic/how-i-captured-the-flags-in-tripwire-verts-cyber-security-contest-part-2/
+or on my personal website:
 https://ilias.giechaskiel.com/posts/tripwire_ctf/index.html
 
 The output of the injection.py program is as follows:

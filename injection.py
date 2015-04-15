@@ -10,7 +10,11 @@
 # If you would like to make the code faster, consider using error-based 
 # injection in combination with binary search.
 #
-# For more details and context, please visit 
+# For more details and context, please visit my guest posts at Tripwire's blog:
+# http://www.tripwire.com/state-of-security/off-topic/how-i-captured-the-flags-in-tripwire-verts-cyber-security-contest-part-1/
+# and
+# http://www.tripwire.com/state-of-security/off-topic/how-i-captured-the-flags-in-tripwire-verts-cyber-security-contest-part-2/
+# or at my personal website:
 # https://ilias.giechaskiel.com/posts/tripwire_ctf/index.html
 #
 
